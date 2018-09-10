@@ -1,0 +1,3 @@
+default.configuration=spring-security-custom-login-form-annotation
+eclipse.preferences.version=1
+hibernate3.enabled=true
