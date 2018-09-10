@@ -1,0 +1,3 @@
+com\handykrew\admin\configuration\AppInitializer.class
+com\handykrew\admin\controller\AppController.class
+com\handykrew\admin\configuration\AppConfig.class
